@@ -10,7 +10,7 @@ import javafx.stage.StageStyle;
 
 /**
  * La première version de l'application Dédale ;-).
- * @author Jean-François Condotta
+ * @author Damlencourt Valentin
  * @since 5.0 (26/02/23)
  * @version 5.0 (26/02/23)
  */

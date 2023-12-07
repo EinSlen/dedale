@@ -1,7 +1,7 @@
 package dedale.elements;
 /**
  * Une énumération correspondant aux différentes directions possibles.
- * @author Jean-François Condotta
+ * @author Damlencourt Valentin
  * @since 1.0 (22/02/23)
  * @version 1.0 (22/02/23)
  */

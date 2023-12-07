@@ -12,7 +12,7 @@ import java.util.ArrayList;
  * Les emplacements des sorties changent après une rotation. Par exemple, si une pièce à une sortie vers le haut, après rotation, elle aura
  * une sortie vers la droite. 
  * D'autre part, une pièce peut être positionnée. Sa position peut être null lorsqu'elle est hors du plateau.
- * @author Jean-François Condotta
+ * @author Damlencourt Valentin
  * @since 2.0 (22/02/23)
  * @version 2.0 (22/02/23)
  */

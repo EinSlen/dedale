@@ -16,7 +16,7 @@ import java.util.Objects;
  * Un objet est un élément positionnable sur le plateau.
  * Initialement, chaque objet a une position sur le plateau (c'est-à-dire une position non null). Une fois l'objet récupéré, sa position vaut null. Deux objets ne peuvent jamais être
  * au même endroit sur le plateau (c'est-à-dire jamais avoir des positions non null égales).
- * @author Jean-François Condotta
+ * @author Damlencourt Valentin
  * @since 1.0 (22/02/23)
  * @version 1.0 (22/02/23)
  */

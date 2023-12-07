@@ -16,7 +16,7 @@ import dedale.elements.PositionPlateau;
 import dedale.elements.Positionnable;
 /**
  * Cette classe correspond aux gestionnaires de jeu.
- * @author Jean-François Condotta
+ * @author Damlencourt Valentin
  * @since 4.0 (26/02/23)
  * @version 5.0 (26/02/23)
  */

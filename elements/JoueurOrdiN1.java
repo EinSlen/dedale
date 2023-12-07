@@ -3,7 +3,7 @@ package dedale.elements;
 /**
  * Cette classe correspond aux joueurs ordinateurs de niveau 1.
  * Ils calculent les coups complètement aléatoirement.
- * @author Jean-François Condotta
+ * @author Damlencourt Valentin
  * @since 3.0 (24/02/23)
  * @version 3.0 (24/02/23)
  */

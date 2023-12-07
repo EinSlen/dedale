@@ -2,7 +2,7 @@ package dedale.elements;
 
 /**
  * Cette classe correspond aux joueurs ordinateurs.
- * @author Jean-François Condotta
+ * @author Damlencourt Valentin
  * @since 3.0 (24/02/23)
  * @version 3.0 (24/02/23)
  */

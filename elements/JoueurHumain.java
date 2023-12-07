@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 /**
  * Une instance de cette classe représente un joueur humain.
- * @author Jean-François Condotta
+ * @author Damlencourt Valentin
  * @since 3.0 (22/02/23)
  * @version 3.0 (22/02/23)
  */

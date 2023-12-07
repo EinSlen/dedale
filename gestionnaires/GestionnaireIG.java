@@ -7,7 +7,7 @@ import dedale.elements.ElementsJeu;
 import dedale.elements.PositionPlateau;
 /**
  * Interface spécifiant les différentes méthodes attendues d'un gestionnaire gérant l'interface graphique.
- * @author Jean-François Condotta
+ * @author Damlencourt Valentin
  * @since 4.0 (26/02/23)
  * @version 4.0 (26/02/23)
  */

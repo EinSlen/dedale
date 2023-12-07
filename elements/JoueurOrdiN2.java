@@ -4,7 +4,7 @@ package dedale.elements;
  * Cette classe correspond aux joueurs ordinateurs de niveau 2.
  * Ils calculent les coups complètement aléatoirement sauf pour le déplacement 
  * où la position du prochain objet à récupérer est la position qui sera jouée.
- * @author Jean-François Condotta
+ * @author Damlencourt Valentin
  * @since 5.0 (26/02/23)
  * @version 5.0 (26/02/23)
  */

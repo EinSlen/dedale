@@ -13,7 +13,7 @@ import java.util.Objects;
  * <li>Le numéro de ligne {@link NB_LIGS_PLATEAU}-1 correspond à la ligne la plus haute du plateau.</li>
  * <li>Le numéro de colonne {@link NB_COLS_PLATEAU}-1 correspond à la colonne la plus à droite du plateau.</li>
  * </ul>
- * @author Jean-François Condotta
+ * @author Damlencourt Valentin
  * @since 1.0 (22/02/23)
  * @version 1.0 (22/02/23)
  */

@@ -7,7 +7,7 @@ import java.util.ArrayList;
  * positionnable sur le plateau, c'est-à-dire un élément (joueur, pièce du labyrinthe ou objet) ayant une position sur le plateau (position représentée par une instance de la classe {@link dedale.elements.PositionPlateau}).
  * Un Positionnable non positionné sur le plateau a sa position qui vaut null.
  * 
- * @author Jean-François Condotta
+ * @author Damlencourt Valentin
  * @since 1.0 (22/02/23)
  * @version 1.0 (22/02/23)
  *

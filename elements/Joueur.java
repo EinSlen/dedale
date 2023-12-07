@@ -16,7 +16,7 @@ import java.util.Objects;
  * <br>
  * Lors d'un tour, un joueur joue lorsque c'est à son tour. Pour un joueur donné, un booléen permet d'indiquer si c'est à son tour de jouer.
  * 
- * @author Jean-François Condotta
+ * @author Damlencourt Valentin
  * @since 3.0 (22/02/23)
  * @version 3.0 (22/02/23)
  */

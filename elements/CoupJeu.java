@@ -1,7 +1,7 @@
 package dedale.elements;
 /**
  * La classe permet de représenter un coup de jeu (réalisé par un ordinateur).
- * @author Jean-François Condotta
+ * @author Damlencourt Valentin
  * @since 3.0 (22/02/23)
  * @version 3.0 (22/02/23)
  */
